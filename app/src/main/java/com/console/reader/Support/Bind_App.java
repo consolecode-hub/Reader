@@ -31,7 +31,7 @@ public class Bind_App extends Application {
         FontsOverride.setDefaultFont(this, "MONOSPACE", "Roboto-Thin.ttf");
         FontsOverride.setDefaultFont(this, "SERIF", "Roboto-Thin.ttf");
         //  This FontsOverride comes from the example I posted above
-        setupActivityListener();
+  //      setupActivityListener();
 
         mInstance = this;
     }
